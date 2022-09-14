@@ -111,7 +111,7 @@ void xier(vector<int> &list)
 }
 int main()
 {
-    vector<int> list_1 = {5,8,55,32,232,33,2,12,32,32,7};
+    vector<int> list_1 = {5,8,55,32,232,33,2,12,32, 22,32,7};
 
     int ind = 0;
     // list_1[ind++] = 100;
